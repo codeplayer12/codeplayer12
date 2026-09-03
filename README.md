@@ -14,7 +14,7 @@
 
 I'm Noble currently working in the care sector while building toward a move into cybersecurity, focused on SOC operations. I'm backing this up with hands-on lab work and certifications (BTL1, eJPT), and I'm currently working through the OSCP and BTL2.
 
-I'm a big believer in documentation and learning by doing — this profile is where I track that journey: home-lab projects, notes, and write-ups.
+I'm a big believer in documentation and learning by doing  this profile is where I track that journey: home-lab projects, notes, and write-ups.
 
 ### 🔭 Currently
 
