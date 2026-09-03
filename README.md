@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi my name is Noble
+
+[Noble Mutoko on LinkedIn](https://www.linkedin.com/in/noble-mutoko/)
 
 <!--
 **codeplayer12/codeplayer12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
