@@ -33,11 +33,6 @@ I'm a big believer in documentation and learning by doing  this profile is where
   <img src="https://img.shields.io/badge/-Obsidian-483699?style=flat&logo=obsidian&logoColor=white" alt="Obsidian"/>
 </p>
 
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=codeplayer12&show_icons=true&theme=default" alt="GitHub Stats"/>
-</p>
 
 
 ### 🤝 Connect with me
